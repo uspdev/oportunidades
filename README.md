@@ -1,2 +1,2 @@
 # oportunidades
-Sistema para gestão de anúncios de oportunidades para alunos e ex-alunos
+Sistema de anúncios de oportunidades de estágio e emprego para alunos e ex-alunos
