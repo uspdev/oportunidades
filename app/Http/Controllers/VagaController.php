@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class AnuncioController extends Controller
+class VagaController extends Controller
 {
     /**
      * Display a listing of the resource.
